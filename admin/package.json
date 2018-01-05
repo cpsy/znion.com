@@ -1,0 +1,21 @@
+{
+  "name": "znionAdmin",
+  "version": "1.0.0",
+  "description": "资联虹康官网后台",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+	"dev": "electron . --debug"
+  },
+  "keywords": [
+    "Electron",
+    "quick",
+    "start",
+    "tutorial",
+    "demo"
+  ],
+  "author": "wanmin",
+  "devDependencies": {
+    "electron": "~1.7.8"
+  }
+}
